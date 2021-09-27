@@ -1,0 +1,222 @@
+"County","riskLevel","vaccination Ratio","actualvaccine","Death"
+"Albany County, New York",2,0.644,209471,368
+"Allegany County, New York",3,0.362,17841,91
+"Bronx County, New York",2,0.532,886472,6664
+"Broome County, New York",3,0.552,111756,379
+"Cattaraugus County, New York",3,0.468,38979,96
+"Cayuga County, New York",3,0.511,41703,100
+"Chautauqua County, New York",3,0.494,68788,153
+"Chemung County, New York",3,0.5,45157,142
+"Chenango County, New York",3,0.526,26582,85
+"Clinton County, New York",3,0.63,53368,33
+"Columbia County, New York",2,0.64,41410,107
+"Cortland County, New York",3,0.512,26026,69
+"Delaware County, New York",3,0.497,23730,40
+"Dutchess County, New York",3,0.589,190998,480
+"Erie County, New York",2,0.592,583475,1871
+"Essex County, New York",2,0.627,24469,29
+"Franklin County, New York",3,0.547,29230,15
+"Fulton County, New York",3,0.461,26317,97
+"Genesee County, New York",2,0.512,31608,126
+"Greene County, New York",2,0.534,27696,82
+"Hamilton County, New York",3,0.771,3688,3
+"Herkimer County, New York",3,0.503,33039,115
+"Jefferson County, New York",3,0.584,76150,70
+"Kings County, New York",2,0.535,1573366,10680
+"Lewis County, New York",3,0.441,12245,36
+"Livingston County, New York",2,0.517,34654,63
+"Madison County, New York",3,0.534,40315,96
+"Monroe County, New York",2,0.621,487430,1148
+"Montgomery County, New York",3,0.566,29980,133
+"Nassau County, New York",3,0.669,1018258,3239
+"New York County, New York",2,0.698,1308515,4588
+"Niagara County, New York",2,0.568,127299,381
+"Oneida County, New York",3,0.528,129962,532
+"Onondaga County, New York",3,0.639,312691,701
+"Ontario County, New York",3,0.597,68973,95
+"Orange County, New York",3,0.546,233329,748
+"Orleans County, New York",3,0.464,20177,83
+"Oswego County, New York",3,0.51,63714,100
+"Otsego County, New York",3,0.53,33594,50
+"Putnam County, New York",2,0.623,66702,95
+"Queens County, New York",2,0.678,1740734,10090
+"Rensselaer County, New York",2,0.608,103534,154
+"Richmond County, New York",3,0.567,304314,1898
+"Rockland County, New York",2,0.532,191653,766
+"St. Lawrence County, New York",3,0.521,59817,111
+"Saratoga County, New York",2,0.688,168246,184
+"Schenectady County, New York",2,0.617,102942,213
+"Schoharie County, New York",3,0.491,16221,20
+"Schuyler County, New York",3,0.547,10341,16
+"Seneca County, New York",3,0.469,16970,58
+"Steuben County, New York",3,0.502,51923,154
+"Suffolk County, New York",3,0.627,1020645,3498
+"Sullivan County, New York",3,0.5,41473,79
+"Tioga County, New York",3,0.517,27041,65
+"Tompkins County, New York",3,0.692,75994,59
+"Ulster County, New York",3,0.616,119822,270
+"Warren County, New York",3,0.677,45943,76
+"Washington County, New York",3,0.566,37113,61
+"Wayne County, New York",3,0.535,51203,76
+"Westchester County, New York",2,0.664,712561,2325
+"Wyoming County, New York",3,0.436,18612,54
+"Yates County, New York",3,0.457,12182,26
+"Appling County, Georgia",3,0.304,6597,84
+"Atkinson County, Georgia",3,0.32,3308,25
+"Bacon County, Georgia",5,0.264,3454,49
+"Baker County, Georgia",3,0.401,1428,13
+"Baldwin County, Georgia",3,0.389,19990,158
+"Banks County, Georgia",3,0.26,5909,51
+"Barrow County, Georgia",5,0.348,32897,166
+"Bartow County, Georgia",5,0.324,40416,281
+"Ben Hill County, Georgia",3,0.348,6690,87
+"Berrien County, Georgia",3,0.286,6476,54
+"Bibb County, Georgia",3,0.393,69672,523
+"Bleckley County, Georgia",3,0.304,4673,58
+"Brantley County, Georgia",3,0.218,5116,61
+"Brooks County, Georgia",5,0.399,7162,56
+"Bryan County, Georgia",3,0.421,18960,47
+"Bulloch County, Georgia",3,0.292,27339,153
+"Burke County, Georgia",5,0.414,10694,68
+"Butts County, Georgia",3,0.284,8260,93
+"Calhoun County, Georgia",3,0.426,3057,20
+"Camden County, Georgia",3,0.337,20860,80
+"Candler County, Georgia",3,0.366,4687,72
+"Carroll County, Georgia",3,0.321,44846,270
+"Catoosa County, Georgia",3,0.335,26197,83
+"Charlton County, Georgia",3,0.196,3098,50
+"Chatham County, Georgia",3,0.476,155295,547
+"Chattahoochee County, Georgia",3,0.177,2262,17
+"Chattooga County, Georgia",5,0.321,9391,82
+"Cherokee County, Georgia",3,0.445,127975,383
+"Clarke County, Georgia",3,0.42,59245,160
+"Clay County, Georgia",2,0.568,1881,3
+"Clayton County, Georgia",3,0.365,124205,596
+"Clinch County, Georgia",5,0.366,2782,32
+"Cobb County, Georgia",3,0.519,440698,1226
+"Coffee County, Georgia",3,0.32,16552,198
+"Colquitt County, Georgia",5,0.36,19224,158
+"Columbia County, Georgia",3,0.401,70170,239
+"Cook County, Georgia",3,0.356,7098,52
+"Coweta County, Georgia",3,0.381,64989,274
+"Crawford County, Georgia",3,0.331,4801,29
+"Crisp County, Georgia",3,0.378,9960,97
+"Dade County, Georgia",3,0.288,5412,16
+"Dawson County, Georgia",5,0.346,10237,54
+"Decatur County, Georgia",5,0.409,12860,87
+"DeKalb County, Georgia",3,0.489,421068,1155
+"Dodge County, Georgia",5,0.304,7491,114
+"Dooly County, Georgia",5,0.318,4953,49
+"Dougherty County, Georgia",5,0.413,42115,354
+"Douglas County, Georgia",3,0.401,67192,256
+"Early County, Georgia",3,0.428,5094,55
+"Echols County, Georgia",3,0.264,1260,9
+"Effingham County, Georgia",3,0.327,24528,117
+"Elbert County, Georgia",5,0.375,8173,79
+"Emanuel County, Georgia",5,0.332,9161,91
+"Evans County, Georgia",3,0.362,4518,40
+"Fannin County, Georgia",3,0.367,10680,86
+"Fayette County, Georgia",3,0.56,71035,200
+"Floyd County, Georgia",5,0.37,42122,284
+"Forsyth County, Georgia",3,0.484,129406,223
+"Franklin County, Georgia",3,0.319,8610,64
+"Fulton County, Georgia",3,0.504,603510,1573
+"Gilmer County, Georgia",3,0.377,13252,107
+"Glascock County, Georgia",3,0.283,1001,19
+"Glynn County, Georgia",5,0.452,43538,279
+"Gordon County, Georgia",3,0.331,22309,159
+"Grady County, Georgia",3,0.376,10883,77
+"Greene County, Georgia",3,0.489,9900,65
+"Gwinnett County, Georgia",3,0.495,517377,1290
+"Habersham County, Georgia",5,0.351,18710,171
+"Hall County, Georgia",5,0.398,92550,544
+"Hancock County, Georgia",3,0.432,4100,71
+"Haralson County, Georgia",3,0.292,10046,99
+"Harris County, Georgia",3,0.381,15598,71
+"Hart County, Georgia",3,0.337,10012,61
+"Heard County, Georgia",3,0.245,3437,26
+"Henry County, Georgia",3,0.388,103350,389
+"Houston County, Georgia",5,0.38,69168,306
+"Irwin County, Georgia",3,0.334,3649,31
+"Jackson County, Georgia",5,0.366,30388,174
+"Jasper County, Georgia",5,0.302,4984,47
+"Jeff Davis County, Georgia",3,0.27,4828,47
+"Jefferson County, Georgia",3,0.457,8232,74
+"Jenkins County, Georgia",2,0.309,3226,46
+"Johnson County, Georgia",3,0.29,3451,51
+"Jones County, Georgia",3,0.377,12708,71
+"Lamar County, Georgia",5,0.306,6772,74
+"Lanier County, Georgia",3,0.246,3004,14
+"Laurens County, Georgia",5,0.372,21266,204
+"Lee County, Georgia",3,0.442,15252,74
+"Liberty County, Georgia",3,0.259,18377,80
+"Lincoln County, Georgia",3,0.404,3711,29
+"Long County, Georgia",3,0.173,4048,16
+"Lowndes County, Georgia",3,0.321,44096,262
+"Lumpkin County, Georgia",5,0.318,12091,87
+"McDuffie County, Georgia",3,0.389,9579,60
+"McIntosh County, Georgia",3,0.359,5839,24
+"Macon County, Georgia",3,0.366,5573,38
+"Madison County, Georgia",5,0.384,13030,62
+"Marion County, Georgia",3,0.343,3438,28
+"Meriwether County, Georgia",3,0.36,8791,96
+"Miller County, Georgia",3,0.473,3156,16
+"Mitchell County, Georgia",5,0.403,10326,93
+"Monroe County, Georgia",5,0.391,12384,119
+"Montgomery County, Georgia",3,0.303,3440,27
+"Morgan County, Georgia",3,0.407,8758,34
+"Murray County, Georgia",5,0.311,14888,102
+"Muscogee County, Georgia",3,0.363,81655,545
+"Newton County, Georgia",3,0.367,47134,292
+"Oconee County, Georgia",3,0.528,23195,75
+"Oglethorpe County, Georgia",3,0.381,6479,35
+"Paulding County, Georgia",3,0.328,63315,275
+"Peach County, Georgia",3,0.39,12595,77
+"Pickens County, Georgia",5,0.392,14215,92
+"Pierce County, Georgia",5,0.295,6770,79
+"Pike County, Georgia",5,0.283,6278,54
+"Polk County, Georgia",5,0.323,16373,120
+"Pulaski County, Georgia",3,0.323,4250,52
+"Putnam County, Georgia",3,0.388,9713,69
+"Quitman County, Georgia",3,0.317,824,3
+"Rabun County, Georgia",5,0.423,8146,54
+"Randolph County, Georgia",3,0.4,3273,36
+"Richmond County, Georgia",5,0.361,82406,586
+"Rockdale County, Georgia",3,0.446,46110,199
+"Schley County, Georgia",5,0.285,1830,6
+"Screven County, Georgia",3,0.41,6805,42
+"Seminole County, Georgia",3,0.408,3874,21
+"Spalding County, Georgia",5,0.352,27105,235
+"Stephens County, Georgia",5,0.361,10800,82
+"Stewart County, Georgia",3,0.278,2086,26
+"Sumter County, Georgia",5,0.441,14965,114
+"Talbot County, Georgia",3,0.428,2979,22
+"Taliaferro County, Georgia",3,0.416,742,3
+"Tattnall County, Georgia",3,0.288,8532,91
+"Taylor County, Georgia",5,0.39,3757,28
+"Telfair County, Georgia",3,0.239,4501,63
+"Terrell County, Georgia",5,0.495,4919,54
+"Thomas County, Georgia",5,0.433,22239,150
+"Tift County, Georgia",3,0.358,17012,150
+"Toombs County, Georgia",3,0.35,11312,140
+"Towns County, Georgia",5,0.464,6168,69
+"Treutlen County, Georgia",3,0.28,2400,37
+"Troup County, Georgia",3,0.316,26196,268
+"Turner County, Georgia",3,0.446,4149,45
+"Twiggs County, Georgia",3,0.463,4471,51
+"Union County, Georgia",3,0.426,11679,96
+"Upson County, Georgia",5,0.391,11971,139
+"Walker County, Georgia",3,0.286,23312,102
+"Walton County, Georgia",3,0.362,38946,289
+"Ware County, Georgia",3,0.336,14233,213
+"Warren County, Georgia",5,0.419,2541,21
+"Washington County, Georgia",3,0.387,9294,100
+"Wayne County, Georgia",5,0.311,11362,123
+"Webster County, Georgia",3,0.391,1169,4
+"Wheeler County, Georgia",3,0.215,2037,29
+"White County, Georgia",5,0.323,11414,108
+"Whitfield County, Georgia",5,0.381,45723,284
+"Wilcox County, Georgia",3,0.316,3221,50
+"Wilkes County, Georgia",5,0.413,4561,33
+"Wilkinson County, Georgia",3,0.446,4664,31
+"Worth County, Georgia",3,0.369,8576,78
